@@ -1,5 +1,5 @@
-## YOLOv5 연습용 객체탐지 알고리즘
+## YOLOv5 Object detection demo project
 
-Roboflow의 Universal Dataset을 활용했습니다.   
+### Dataset  
    **Dataset** | [Oxford Pets Computer Vision Project](https://universe.roboflow.com/brad-dwyer/oxford-pets)
 
